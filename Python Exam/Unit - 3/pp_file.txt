@@ -1,0 +1,8 @@
+{         'age': 30,
+          'children': [         {         'age': 10,
+                                          'name': 'Bob'},
+                                {         'age': 8,
+                                          'name': 'Charlie'}],
+          'name': 'Alice',
+          'pets': {         'cat': 'Whiskers',
+                            'dog': 'Fido'}}
